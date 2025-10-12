@@ -55,15 +55,11 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 ## Skills
 
-**Cloud**: Azure, AWS
-
-**DevOps**: Terraform, GitLab CI/CD, Jenkins
-
-**Programming**: Python, PowerShell, Go
-
-**Automation**: Power Automate
-
-**Identity**: Active Directory, Entra ID, Azure AD B2C
+* **Cloud**: Azure, AWS
+* **DevOps**: Terraform, GitLab CI/CD, Jenkins
+* **Programming**: Python, PowerShell, Go
+* **Automation**: Power Automate
+* **Identity**: Active Directory, Entra ID, Azure AD B2C
 
 ---
 
