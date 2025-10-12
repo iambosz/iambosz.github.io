@@ -45,8 +45,8 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 **Nov 2020 – Jul 2022**
 
 * **Active Directory & Entra ID**: streamlined account lifecycle and automated routine operations (≈30% workload reduction), including MFA and Windows Hello for Business onboarding for offshore users.
-* **Exchange Server / Exchange Online**: managed ~10,000 mailboxes (mailboxes, shared mailboxes, distribution lists) and led migrations from on‑premises Exchange Server to Exchange Online.
-* **Microsoft 365**: supported Teams/SharePoint/OneDrive (**10,000 users**); built Python workflows to analyze user/license trends and adoption, shrinking manual analysis from 8–10 hours to ~30 minutes and enabling tailored reporting.
+* **Exchange Server / Exchange Online**: managed **~10,000 mailboxes** (mailboxes, shared mailboxes, distribution lists) and led migrations from on‑premises Exchange Server to Exchange Online.
+* **Microsoft 365**: supported Teams/SharePoint/OneDrive (**~10,000 users**); built Python workflows to analyze user/license trends and adoption, shrinking manual analysis from 8–10 hours to ~30 minutes and enabling tailored reporting.
 * **On-premises servers**: maintained VMs on VMware vCenter and ensured SLA compliance with on-call support.
 
 **Tech:** Azure, Terraform, Python, PowerShell, Microsoft 365, Entra ID/AD, VMware, Databricks
