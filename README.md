@@ -2,17 +2,17 @@
 
 DevOps Expert • Cloud & Platform Engineering • Azure / AWS • Terraform • GitLab CI/CD
 
-[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • 📧 [jatuchot.sir@gmail.com](mailto:jatuchot.sir@gmail.com) • 📱 +66 917435855
+[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • [jatuchot.sir@gmail.com](mailto:jatuchot.sir@gmail.com) • +66 917435855
 
 ---
 
-## 🚀 Summary
+## Summary
 
 A results-oriented systems/DevOps engineer with practical expertise developing dependable, secure, and expandable cloud structures. Everything I come into contact with is automated, including data-driven processes using Python/PowerShell, comprehensive CI/CD using GitLab and Jenkins, and infrastructure provisioning using Terraform. Clear documentation, measurable impact, and clean pipelines are important to me.
 
 ---
 
-## 🧭 Key Impact (Stats)
+## Key Impact (Stats)
 
 | Area                                        | Impact                                                                                                                           |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 ---
 
-## 🧑‍💼 Experience
+## Experience
 
 ### Siam Commercial Bank Public Company Limited — **DevOps Expert**
 
@@ -66,7 +66,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 ---
 
-## 🧰 Skills
+## Skills
 
 **Cloud**: Azure, AWS
 **DevOps**: Terraform, GitLab CI/CD, Jenkins
@@ -76,21 +76,21 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 ---
 
-## 🎯 Selected Projects
+## Selected Projects
 
 * **Azure provisioning with Terraform** — converted manual builds to reusable modules; standardized, scalable deployments; **~50% faster** cycles.
 * **Account Management portal for ServiceDesk** — delegated routine identity tasks (e.g., reset MFA, extend expiry) from Tier‑2 to Tier‑1 to improve turnaround and reduce ops load.
 
 ---
 
-## 🎓 Education
+## Education
 
 * **MBA, Digital Business Management** — King Mongkut’s University of Technology Thonburi (2021–2023)
 * **B.Eng., Computer Engineering** — King Mongkut’s University of Technology Thonburi (2016–2020)
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 * **AWS Certified SysOps Administrator** — Nov 2024
 * **Azure Virtual Desktop Specialty** — Dec 2023
