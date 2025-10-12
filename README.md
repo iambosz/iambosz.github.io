@@ -1,106 +1,100 @@
-# Jatuchot Siriwongsilp — DevOps / Cloud Engineer
+# Jatuchot Siriwongsilp
 
-[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • 📧 jatuchot.sir@gmail.com • 📱 +66 917435855 • 🕘 Asia/Bangkok (UTC+7)
+DevOps Expert • Cloud & Platform Engineering • Azure / AWS • Terraform • GitLab CI/CD
 
-> DevOps-minded cloud engineer focused on automation, reliability, and measurable impact. I build tools and CI/CD that reduce toil, speed up delivery, and make costs transparent.
-
----
-
-## 🚀 Quick Impact
-
-| Area | What I did | Result |
-|---|---|---|
-| Access governance | Built tools for one-click checks across DevOps tools and vendor accounts | **↓ 95%** of ad-hoc requests from developers/PMs |
-| ACR cost transparency | Scripted Azure Container Registry (ACR) charge-back calculation | Accurate, repeatable billing for application teams |
-| User lifecycle | GitLab CI to auto-unblock users post-license request | Faster onboarding; fewer manual interventions |
-| Delivery | Pipelines to deploy to Azure | Consistent, auditable releases |
-| Infra provisioning | Standardized Terraform modules | **↓ 50%** deployment time |
-| Identity operations | Automated AD/Entra ID tasks | **↓ 30%** operational workload |
-| M365 analytics | Automated reporting for >10k users | From **8–10 hrs → ~30 mins** per report |
-
-*Note: historical figures come from previous roles and platforms as listed in my CV.* :contentReference[oaicite:0]{index=0}
+[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • 📧 [jatuchot.sir@gmail.com](mailto:jatuchot.sir@gmail.com) • 📱 +66 917435855
 
 ---
 
-## 💼 Experience
+## 🚀 Summary
 
-### Siam Commercial Bank Public Company Limited — **DevOps Expert**  
-**March 2025 – Present | Bangkok, Thailand**
-
-- Built **self-service access check** tools that let developers and PMs validate DevOps tool access and vendor account status themselves — cutting **~95%** of inbound access requests.  
-- Authored **ACR charge-back** scripts to compute per-team costs for Azure Container Registry usage, enabling accurate cost allocation.  
-- Wrote **GitLab CI** logic to **auto-unblock users** after license approval, reducing manual queue time.  
-- Supported **application releases** across environments with clear runbooks and checks.  
-- Implemented/maintained **Azure deployment pipelines** (infrastructure + app), improving repeatability and auditability.
-
-> **Key stats:** 95% request reduction (access), deterministic ACR billing, faster user unlocks, consistent Azure deployments.
+A results-oriented systems/DevOps engineer with practical expertise developing dependable, secure, and expandable cloud structures. Everything I come into contact with is automated, including data-driven processes using Python/PowerShell, comprehensive CI/CD using GitLab and Jenkins, and infrastructure provisioning using Terraform. Clear documentation, measurable impact, and clean pipelines are important to me.
 
 ---
 
-### PTT Digital Solutions Co., Ltd.  
-**Systems Engineer (Cloud)** — *Aug 2022 – Present*  
-**Systems Engineer** — *Nov 2020 – Jul 2022*
+## 🧭 Key Impact (Stats)
 
-- Managed Azure (VMs, App Services, AKS, Storage, Key Vault, Data Factory, Databricks, networking) with a strong security baseline.  
-- **Automated provisioning with Terraform** (reusable modules) → **50% faster** deployments.  
-- 24/7 **Azure standby** to maintain HA for critical systems.  
-- Automated **AD/Entra ID** operations → **30% less** ops workload.  
-- Drove **M365 analytics** (Exchange, Teams, SharePoint, OneDrive) for **10,000+ users**; Python workflows took reports from **8–10h down to ~30m**; added license/adoption insights.  
-- Power Automate flows for SharePoint-driven notifications; vendor coordination; VMware vCenter ops.
+| Area                                        | Impact                                                                                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Access self‑service portal for DevOps tools | **−95%** inbound requests from developers/PMs after rollout (self‑service checks for vendor & internal accounts).                |
+| Azure ACR charge‑back                       | Standardized & automated reporting; improved accuracy and transparency for app teams & Infra (eliminated manual reconciliation). |
+| Terraformized Azure provisioning            | **−50%** deployment time with reusable modules and consistent IaC patterns.                                                      |
+| AD/Entra operations tooling                 | **−30%** operational workload via automation.                                                                                    |
+| M365 analytics automation                   | Reduced manual analysis from **8–10 hours → ~30 minutes** per run; supports > **10,000 users**.                                  |
+| GitLab license unblock                      | Automated unblock workflow after license request; reduces manual steps and accelerates user onboarding.                          |
 
-> See CV for full details. :contentReference[oaicite:1]{index=1}
-
----
-
-## 🧑‍💼 Consulting & Advisory (Selected)
-
-- **DevOps Readiness Review:** CI/CD audit (GitLab CI), branching/release policy, artifact/versioning, and secret management.  
-- **Cost & Tagging Governance:** Azure resource tagging standards; **ACR charge-back** templates and monthly rollups.  
-- **Identity & Access:** AD/Entra ID hygiene checks, MFA policy guidance, GitLab user lifecycle automation.  
-- **Observability Starter:** Minimal SLOs, deployment dashboards, and incident checklists for small teams.
-
-*References and portfolio items available on request.*
+> Notes: Where exact numbers are not provided publicly, figures reflect measured internal improvements or conservative summaries from my work history.
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💼 Experience
 
-- **Cloud:** Azure, AWS  
-- **DevOps:** GitLab CI/CD, Terraform, Azure Pipelines (familiar), Docker, AKS  
-- **Langs & Scripting:** Python, Go, PowerShell, Bash  
-- **Identity:** Active Directory, Entra ID, Azure AD B2C  
-- **Automation:** Power Automate  
-- **Practices:** IaC, cost tagging/charge-back, release engineering, access governance, on-call/HA
+### Siam Commercial Bank Public Company Limited — **DevOps Expert**
 
----
+**March 2025 – Present** | Bangkok, Thailand
 
-## 🔭 Highlighted Projects
+* Created a **access-check self-service** tool to let developers verify permissions across DevOps tools and allow PMs to validate vendor access on their behalf, resulting in a ~95% reduction in incoming access-check requests.
+* Developed a Jenkins pipeline to automate Python reporting jobs and provide CSV/Excel summaries to relevant teams, boosting accuracy and auditability for Azure Container Registry (ACR).
+* Created internal documentation and self-service portals using **Docusaurus**, including application onboarding instructions, CI/CD guides, DevOps tool access requests, and image vulnerability reports, for speedier onboarding and consistent best practices.
+* Created **GitLab CI** jobs and automation to **unblock GitLab users** once license requests are authorized, reducing manual administration and queue delays.
+* **Assisted with application release** operations.
+* Created and administered Azure deployment pipelines with managed identities (MSI), per-environment promotion gates, and policy-enforced tagging for cost and ownership tracking.
 
-- **Terraform Azure Baseline** — Reusable modules that standardize networking, security, and app runtimes → **50%** faster rollouts. :contentReference[oaicite:2]{index=2}  
-- **Service Desk Account Ops** — Web app to delegate common identity ops (e.g., MFA reset, extending account expiry) → improved turnaround and reduced Tier-2 workload. :contentReference[oaicite:3]{index=3}  
-- **ACR Charge-Back** — Scripts and data model to fairly distribute registry costs per app/team; integrates with tagging policies. *(SCB)*
+**Tech:** Azure, ACR, GitLab CI/CD, Jenkins, Python, Bash, PowerShell, Terraform (patterns), Entra ID, cost & usage reporting
 
 ---
 
-## 🏅 Certifications
+### PTT Digital Solutions Co., Ltd. — **System Engineer (Cloud)**
 
-- **AWS Certified SysOps Administrator** (Issued Nov 2024)  
-- **Azure Virtual Desktop Specialty** (Dec 2023)  
-- **Microsoft 365 Security Administrator Associate** (Dec 2022)  
-- **Azure Security Administrator Associate** (Oct 2022)  
-- **Azure Administrator Associate** (Jun 2021) :contentReference[oaicite:4]{index=4}
+**Aug 2022 – Feb 2025** | Bangkok, Thailand
+
+* Managed Azure resources (VMs, App Services, AKS, Storage, Key Vault, ADF, Databricks, and networking), focusing on security and scalability.
+* **Automated provisioning with Terraform** (reusable modules) standardizes infrastructure and reduces lead time by approximately 50%.
+* Worked with suppliers to complete cloud projects, and offered **24/7 standby** for essential workloads.
+* Onboarding Azure AD B2C for customers.
+
+### PTT Digital Solutions Co., Ltd. — **System Engineer**
+
+**Nov 2020 – Jul 2022** | Bangkok, Thailand
+
+* **Active Directory & Entra ID**: streamlined account lifecycle and automated routine operations (≈30% workload reduction), including MFA and Windows Hello for Business onboarding for offshore users.
+* **Exchange Server / Exchange Online**: managed ~10,000 objects (mailboxes, shared mailboxes, distribution lists) and led migrations from on‑premises Exchange Server to Exchange Online.
+* **Microsoft 365**: supported Teams/SharePoint/OneDrive; built Python workflows to analyze user/license trends and adoption, shrinking manual analysis from 8–10 hours to ~30 minutes and enabling tailored reporting.
+* **On-premises servers**: maintained VMs on VMware vCenter and ensured SLA compliance with on-call support.
+
+**Tech:** Azure, Terraform, Python, PowerShell, Microsoft 365, Entra ID/AD, VMware, Databricks, ADF
+
+---
+
+## 🧰 Skills
+
+**Cloud**: Azure, AWS
+**DevOps**: Terraform, GitLab CI/CD, Jenkins
+**Programming**: Python, PowerShell, Go
+**Automation**: Power Automate
+**Identity**: Active Directory, Entra ID, Azure AD B2C
+
+---
+
+## 🎯 Selected Projects
+
+* **Azure provisioning with Terraform** — converted manual builds to reusable modules; standardized, scalable deployments; **~50% faster** cycles.
+* **Account Management portal for ServiceDesk** — delegated routine identity tasks (e.g., reset MFA, extend expiry) from Tier‑2 to Tier‑1 to improve turnaround and reduce ops load.
 
 ---
 
 ## 🎓 Education
 
-- **MBA, Digital Business Management** — King Mongkut’s University of Technology Thonburi *(Aug 2021 – Jul 2023)*  
-- **B.Eng., Computer Engineering** — King Mongkut’s University of Technology Thonburi *(Aug 2016 – Jun 2020)* :contentReference[oaicite:5]{index=5}
+* **MBA, Digital Business Management** — King Mongkut’s University of Technology Thonburi (2021–2023)
+* **B.Eng., Computer Engineering** — King Mongkut’s University of Technology Thonburi (2016–2020)
 
 ---
 
-## 📫 Contact
+## 🏅 Certifications
 
-- **Email:** jatuchot.sir@gmail.com  
-- **LinkedIn:** linkedin.com/in/jatuchot-s
+* **AWS Certified SysOps Administrator** — Nov 2024
+* **Azure Virtual Desktop Specialty** — Dec 2023
+* **Microsoft 365 Security Administrator Associate** — Dec 2022
+* **Azure Security Administrator Associate** — Oct 2022
+* **Azure Administrator Associate** — Jun 2021
 
