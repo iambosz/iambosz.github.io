@@ -36,7 +36,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * Managed Azure resources (VMs, App Services, AKS, Storage, Key Vault, ADF, Databricks, and networking), focusing on security and scalability.
 * **Automated provisioning with Terraform** (reusable modules) standardizes infrastructure and reduces lead time by approximately 50%.
 * Worked with suppliers to complete cloud projects, and offered **24/7 standby** for essential workloads.
-* Onboarding Azure AD B2C for customers.
+* Onboarding Azure AD B2C service for customers (tenant setup, user flows/custom policies, app registrations, custom domains, branding), enabling customers to quickly and securely onboard external vendors to their applications.
 
 ---
 
