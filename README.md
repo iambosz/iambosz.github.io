@@ -23,9 +23,9 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * Created internal documentation and self-service portals using **Docusaurus**, including application onboarding instructions, CI/CD guides, DevOps tool access requests, and image vulnerability reports, for speedier onboarding and consistent best practices.
 * Created **GitLab CI** jobs and automation to **unblock GitLab users** once license requests are authorized, reducing manual administration and queue delays.
 * **Assisted with application release** operations.
-* Created and administered Azure deployment pipelines with managed identities (MSI), per-environment promotion gates, and policy-enforced tagging for cost and ownership tracking.
+* Created and administered Azure deployment pipelines with managed identities (MSI), and policy-enforced tagging for cost and ownership tracking.
 
-**Tech:** Azure, ACR, GitLab CI/CD, Jenkins, Python, Bash, PowerShell, Terraform (patterns), Entra ID
+**Tech:** Azure, ACR, GitLab, Jenkins, Python, Bash, PowerShell, Terraform (patterns), Entra ID, Harbor, ArgoCD, Hashicorp Vault, Nexus, Docker
 
 ---
 
