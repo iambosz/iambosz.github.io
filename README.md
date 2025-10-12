@@ -12,26 +12,11 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 ---
 
-## Key Impact (Stats)
-
-| Area                                        | Impact                                                                                                                           |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Access self‑service portal for DevOps tools | **−95%** inbound requests from developers/PMs after rollout (self‑service checks for vendor & internal accounts).                |
-| Azure ACR charge‑back                       | Standardized & automated reporting; improved accuracy and transparency for app teams & Infra (eliminated manual reconciliation). |
-| Terraformized Azure provisioning            | **−50%** deployment time with reusable modules and consistent IaC patterns.                                                      |
-| AD/Entra operations tooling                 | **−30%** operational workload via automation.                                                                                    |
-| M365 analytics automation                   | Reduced manual analysis from **8–10 hours → ~30 minutes** per run; supports > **10,000 users**.                                  |
-| GitLab license unblock                      | Automated unblock workflow after license request; reduces manual steps and accelerates user onboarding.                          |
-
-> Notes: Where exact numbers are not provided publicly, figures reflect measured internal improvements or conservative summaries from my work history.
-
----
-
 ## Experience
 
 ### Siam Commercial Bank Public Company Limited — **DevOps Expert**
 
-**March 2025 – Present** | Bangkok, Thailand
+**March 2025 – Present**
 
 * Created a **access-check self-service** tool to let developers verify permissions across DevOps tools and allow PMs to validate vendor access on their behalf, resulting in a ~95% reduction in incoming access-check requests.
 * Developed a Jenkins pipeline to automate Python reporting jobs and provide CSV/Excel summaries to relevant teams, boosting accuracy and auditability for Azure Container Registry (ACR).
@@ -46,16 +31,18 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 ### PTT Digital Solutions Co., Ltd. — **System Engineer (Cloud)**
 
-**Aug 2022 – Feb 2025** | Bangkok, Thailand
+**Aug 2022 – Feb 2025**
 
 * Managed Azure resources (VMs, App Services, AKS, Storage, Key Vault, ADF, Databricks, and networking), focusing on security and scalability.
 * **Automated provisioning with Terraform** (reusable modules) standardizes infrastructure and reduces lead time by approximately 50%.
 * Worked with suppliers to complete cloud projects, and offered **24/7 standby** for essential workloads.
 * Onboarding Azure AD B2C for customers.
 
+---
+
 ### PTT Digital Solutions Co., Ltd. — **System Engineer**
 
-**Nov 2020 – Jul 2022** | Bangkok, Thailand
+**Nov 2020 – Jul 2022**
 
 * **Active Directory & Entra ID**: streamlined account lifecycle and automated routine operations (≈30% workload reduction), including MFA and Windows Hello for Business onboarding for offshore users.
 * **Exchange Server / Exchange Online**: managed ~10,000 objects (mailboxes, shared mailboxes, distribution lists) and led migrations from on‑premises Exchange Server to Exchange Online.
@@ -97,4 +84,3 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * **Microsoft 365 Security Administrator Associate** — Dec 2022
 * **Azure Security Administrator Associate** — Oct 2022
 * **Azure Administrator Associate** — Jun 2021
-
