@@ -25,7 +25,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * **Assisted with application release** operations.
 * Created and administered Azure deployment pipelines with managed identities (MSI), per-environment promotion gates, and policy-enforced tagging for cost and ownership tracking.
 
-**Tech:** Azure, ACR, GitLab CI/CD, Jenkins, Python, Bash, PowerShell, Terraform (patterns), Entra ID, cost & usage reporting
+**Tech:** Azure, ACR, GitLab CI/CD, Jenkins, Python, Bash, PowerShell, Terraform (patterns), Entra ID
 
 ---
 
@@ -49,7 +49,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * **Microsoft 365**: supported Teams/SharePoint/OneDrive; built Python workflows to analyze user/license trends and adoption, shrinking manual analysis from 8–10 hours to ~30 minutes and enabling tailored reporting.
 * **On-premises servers**: maintained VMs on VMware vCenter and ensured SLA compliance with on-call support.
 
-**Tech:** Azure, Terraform, Python, PowerShell, Microsoft 365, Entra ID/AD, VMware, Databricks, ADF
+**Tech:** Azure, Terraform, Python, PowerShell, Microsoft 365, Entra ID/AD, VMware, Databricks
 
 ---
 
