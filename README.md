@@ -33,7 +33,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 **Aug 2022 – Feb 2025**
 
-* Managed Azure resources (VMs, App Services, AKS, Storage, Key Vault, ADF, Databricks, and networking), focusing on security and scalability.
+* Managed Azure resources (VMs, App Services, Azure Kubenetes Services, Storage Account, Key Vault, Azure Data Factory, Databricks, Azure Firewall, and networking), focusing on security and scalability.
 * **Automated provisioning with Terraform** (reusable modules) standardizes infrastructure and reduces lead time by approximately 50%.
 * Onboarding Azure AD B2C service for customers (tenant setup, user flows/custom policies, app registrations, custom domains, branding), enabling customers to quickly and securely onboard external vendors to their applications.
 * Worked with vendors to complete cloud projects, and offered **24/7 standby** for critical workloads.
