@@ -2,7 +2,7 @@
 
 DevOps Expert • Cloud & Platform Engineering • Azure / AWS • Terraform • GitLab CI/CD
 
-[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • [jatuchot.sir@gmail.com](mailto:jatuchot.sir@gmail.com) • +66 917435855
+[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • [Website](iambosz.github.io) • [jatuchot.sir@gmail.com](mailto:jatuchot.sir@gmail.com) • +66 917435855
 
 ---
 
