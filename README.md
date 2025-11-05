@@ -67,6 +67,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 * **Azure provisioning with Terraform** — converted manual builds to reusable modules; standardized, scalable deployments; **~50% faster** cycles.
 * **Account Management portal for ServiceDesk** — delegated routine identity tasks (e.g., reset MFA, extend expiry) from Tier‑2 to Tier‑1 to improve turnaround and reduce ops load.
+* **Access-check self-service** - this led to about a 95% reduction in tickets, reducing the team’s effort on access checks.
 
 ---
 
