@@ -22,7 +22,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * Developed a Jenkins pipeline to automate Python reporting jobs and provide CSV/Excel summaries to relevant teams, boosting accuracy and auditability for Azure Container Registry (ACR).
 * Created internal documentation and self-service portals using **Docusaurus**, including application onboarding instructions, CI/CD guides, DevOps tool access requests, and image vulnerability reports, for speedier onboarding and consistent best practices.
 * Created **GitLab CI** jobs and automation to **unblock GitLab users** once license requests are authorized, reducing manual administration and queue delays.
-* **Assisted with application release** operations.
+* **Supported application release** operations to ensure smooth and timely deployments.
 * Created and administered Azure deployment pipelines with managed identities (MSI), and policy-enforced tagging for cost and ownership tracking.
 
 **Tech:** Azure, ACR, GitLab, Jenkins, Python, Bash, PowerShell, Terraform, Entra ID, Harbor, ArgoCD, Hashicorp Vault, Nexus, Docker
