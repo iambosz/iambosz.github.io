@@ -25,7 +25,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 * **Assisted with application release** operations.
 * Created and administered Azure deployment pipelines with managed identities (MSI), and policy-enforced tagging for cost and ownership tracking.
 
-**Tech:** Azure, ACR, GitLab, Jenkins, Python, Bash, PowerShell, Terraform (patterns), Entra ID, Harbor, ArgoCD, Hashicorp Vault, Nexus, Docker
+**Tech:** Azure, ACR, GitLab, Jenkins, Python, Bash, PowerShell, Terraform, Entra ID, Harbor, ArgoCD, Hashicorp Vault, Nexus, Docker
 
 ---
 
