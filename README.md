@@ -18,7 +18,7 @@ A results-oriented systems/DevOps engineer with practical expertise developing d
 
 **March 2025 – Present**
 
-* Created a **access-check self-service** tool to let developers verify permissions across DevOps tools and allow PMs to validate vendor access on their behalf, resulting in a ~95% reduction in incoming access-check requests.
+* Created a **access-check self-service** tool to let developers verify permissions across DevOps tools and allow project managers to validate vendor access on their behalf, resulting in a ~95% reduction in incoming access-check requests.
 * Developed a Jenkins pipeline to automate Python reporting jobs and provide CSV/Excel summaries to relevant teams, boosting accuracy and auditability for Azure Container Registry (ACR).
 * Created internal documentation and self-service portals using **Docusaurus**, including application onboarding instructions, CI/CD guides, DevOps tool access requests, and image vulnerability reports, for speedier onboarding and consistent best practices.
 * Created **GitLab CI** jobs and automation to **unblock GitLab users** once license requests are authorized, reducing manual administration and queue delays.
