@@ -28,7 +28,7 @@
 * Onboarding Azure AD B2C service for customers (tenant setup, user flows/custom policies, app registrations, custom domains, branding), enabling customers to quickly and securely onboard external vendors to their applications.
 * Worked with vendors to complete cloud projects, and offered **24/7 standby** for critical workloads.
 * Managed both private DNS (Windows Server DNS) and public DNS (Infoblox DNS) for customers, maintaining 50,000+ DNS records across multiple zones and ensuring correct name resolution for hybrid/on-prem and cloud workloads.
-Troubleshot DNS and networking issues impacting application availability (A/CNAME/MX/TXT records, reverse lookups) in coordination with network and application teams.
+* Troubleshot DNS and networking issues impacting application availability (A/CNAME/MX/TXT records, reverse lookups) in coordination with network and application teams.
 ---
 
 ### PTT Digital Solutions Co., Ltd. — **System Engineer**
