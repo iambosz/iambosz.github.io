@@ -47,18 +47,20 @@
 
 ## Skills
 
-* **Cloud**: Azure, AWS
-* **DevOps**: Terraform, GitLab CI/CD, Jenkins
-* **Programming**: Python, PowerShell, Go
-* **Automation**: Power Automate
-* **Identity**: Active Directory, Entra ID, Azure AD B2C
+* **Cloud:** Azure, AWS
+* **Infrastructure as Code / DevOps:** Terraform, GitLab CI/CD, Jenkins
+* **Programming & Automation:** Python, PowerShell, Bash, Go, Power Automate
+* **Networking & DNS:** Windows Server DNS, Infoblox DNS, hybrid/on-prem–to-cloud name resolution
+* **Identity & Security:** Active Directory, Entra ID, Azure AD B2C, MFA, Windows Hello for Business
+* **Collaboration & Docs:** Docusaurus, Confluence, Git
 
 ---
 
 ## Selected Projects
 
-* **Azure provisioning with Terraform** — converted manual builds to reusable modules; standardized, scalable deployments; **~50% faster** cycles.
-* **Account Management portal for ServiceDesk** — delegated routine identity tasks (e.g., reset MFA, extend expiry) from Tier‑2 to Tier‑1 to improve turnaround and reduce ops load.
+* **Azure provisioning with Terraform** — Converted manual cloud builds into reusable Terraform modules. standardized patterns across teams and reduced provisioning cycles by 50%.
+* **Account Management portal for ServiceDesk** — Delegated routine identity tasks (e.g. reset MFA, extend expiry) from Tier-2 to Tier-1, improving turnaround time and reducing operations load.
+* **Access-check self-service** - Designed and implemented a self-service access-check solution that reduced access-check tickets by 95%, freeing the team from repetitive checks and improving transparency for application teams.
 
 ---
 
