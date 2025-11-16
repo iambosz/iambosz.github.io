@@ -29,7 +29,7 @@ DevOps / System engineer with hands-on experience designing, operating, and auto
 
 ---
 
-### PTT Digital Solutions Company Limited. — **System Engineer (Cloud)**
+### PTT Digital Solutions Company Limited — **System Engineer (Cloud)**
 
 **Aug 2022 – Feb 2025**
 
@@ -42,7 +42,7 @@ DevOps / System engineer with hands-on experience designing, operating, and auto
 
 ---
 
-### PTT Digital Solutions Company Limited. — **System Engineer**
+### PTT Digital Solutions Company Limited — **System Engineer**
 
 **Nov 2020 – Jul 2022**
 
