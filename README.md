@@ -70,7 +70,7 @@ DevOps / System engineer with hands-on experience designing, operating, and auto
 
 * **Azure provisioning with Terraform** — Converted manual cloud builds into reusable Terraform modules. standardized patterns across teams and reduced provisioning cycles by 50%.
 * **Account Management portal for ServiceDesk** — Delegated routine identity tasks (e.g. reset MFA, extend expiry) from Tier-2 to Tier-1, improving turnaround time and reducing operations load.
-* **Access-check self-service** - Designed and implemented a self-service access-check solution that reduced access-check tickets by ~95%, freeing the team from repetitive checks and improving transparency for application teams.
+* **Access-check self-service** - Designed and implemented a self-service access-check solution that reduced access-check tickets by 95%, freeing the team from repetitive checks and improving transparency for application teams.
 
 ---
 
