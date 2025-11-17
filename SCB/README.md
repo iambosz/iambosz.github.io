@@ -1,7 +1,5 @@
 # Jatuchot Siriwongsilp (Boss)
 
-[LinkedIn](https://www.linkedin.com/in/jatuchot-s) • [jatuchot.sir@gmail.com](mailto:jatuchot.sir@gmail.com) • +66 967350767
-
 ---
 
 ## Work Experience
