@@ -17,7 +17,7 @@
 
 ---
 
-### PTT Digital Solutions Co., Ltd. — **System Engineer (Cloud)**
+### PTT Digital Solutions Company Limited — **System Engineer (Cloud)**
 
 **Aug 2022 – Feb 2025**
 
@@ -29,7 +29,7 @@
 * Troubleshot DNS and networking issues impacting application availability (A/CNAME/MX/TXT records, reverse lookups) in coordination with network and application teams.
 ---
 
-### PTT Digital Solutions Co., Ltd. — **System Engineer**
+### PTT Digital Solutions Company Limited — **System Engineer**
 
 **Nov 2020 – Jul 2022**
 
