@@ -8,12 +8,11 @@
 
 **March 2025 – Present**
 
-* Created a **access-check self-service** tool to let developers verify permissions across DevOps tools and allow PMs to validate vendor access on their behalf, resulting in a ~95% reduction in incoming access-check requests.
-* Developed a Jenkins pipeline to automate Python reporting jobs and provide CSV/Excel summaries to relevant teams, boosting accuracy and auditability for Azure Container Registry (ACR).
-* Created internal documentation and self-service portals using **Docusaurus**, including application onboarding instructions, CI/CD guides, DevOps tool access requests, and image vulnerability reports, for speedier onboarding and consistent best practices.
-* Created **GitLab CI** jobs and automation to **unblock GitLab users** once license requests are authorized, reducing manual administration and queue delays.
-* **Assisted with application release** operations.
-* Created and administered Azure deployment pipelines with managed identities (MSI), and policy-enforced tagging for cost and ownership tracking.
+* Built an access-check self-service portal that lets developers verify their own permissions and allows project managers to validate vendor access, reducing access-check tickets by 95%.
+* Developed Jenkins pipelines to automate Python reporting jobs that generate CSV/Excel summaries for Azure Container Registry (ACR) usage and inactive GitLab/Jira/Confluence users, improving reporting accuracy and auditability, enabling cost charge-back to application teams, and reclaiming 5–10% of licenses each week by removing inactive users and reallocating licenses to new requests.
+* Created internal documentation and self-service portals (Docusaurus) for onboarding, CI/CD guidance, DevOps tool access, and image vulnerability reports, speeding up onboarding and standardizing best practices.
+* Implemented GitLab CI jobs and automation to unblock GitLab users once license requests are approved, cutting manual admin work and reducing queue times.
+* Designed and managed Azure deployment pipelines using managed identities (MSI) in line with security requirements, with policy-based tagging for cost and ownership tracking.
 
 ---
 
@@ -21,12 +20,13 @@
 
 **Aug 2022 – Feb 2025**
 
-* Managed Azure resources (VMs, App Services, AKS, Storage, Key Vault, ADF, Databricks, and networking), focusing on security and scalability.
-* **Automated provisioning with Terraform** (reusable modules) standardizes infrastructure and reduces lead time by approximately 50%.
+* Managed Azure resources (VMs, App Services, Azure Kubenetes Services, Storage Account, Key Vault, Azure Data Factory, Databricks, Azure Firewall, and networking), focusing on security, scalability, and reliability.
+* Automated provisioning with reusable Terraform modules, standardizing infrastructure and reducing lead time by 50%.
 * Onboarding Azure AD B2C service for customers (tenant setup, user flows/custom policies, app registrations, custom domains, branding), enabling customers to quickly and securely onboard external vendors to their applications.
-* Worked with vendors to complete cloud projects, and offered **24/7 standby** for critical workloads.
 * Managed both private DNS (Windows Server DNS) and public DNS (Infoblox DNS) for customers, maintaining 50,000+ DNS records across multiple zones and ensuring correct name resolution for hybrid/on-prem and cloud workloads.
 * Troubleshot DNS and networking issues impacting application availability (A/CNAME/MX/TXT records, reverse lookups) in coordination with network and application teams.
+* Collaborated with vendors on cloud projects and provided 24/7 standby support for critical workloads.
+
 ---
 
 ### PTT Digital Solutions Company Limited — **System Engineer**
