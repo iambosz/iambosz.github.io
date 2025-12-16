@@ -12,7 +12,7 @@
 * Developed Jenkins pipelines to automate Python reporting jobs that generate CSV/Excel summaries for Azure Container Registry (ACR) usage and inactive GitLab users, improving reporting accuracy and auditability, enabling cost charge-back to application teams, and reclaiming 5–10% of licenses each week by removing inactive users and reallocating licenses to new requests.
 * Created internal documentation and self-service portals (Docusaurus) for onboarding, CI/CD guidance, DevOps tool access, and image vulnerability reports, speeding up onboarding and standardizing best practices.
 * Implemented GitLab CI jobs and automation to unblock GitLab users once license requests are approved, cutting manual admin work and reducing queue times.
-* Designed and managed Azure deployment pipelines using managed identities (MSI) in line with security requirements, with policy-based tagging for cost and ownership tracking.
+* Designed and managed Azure deployment pipelines to automate delivery of Azure services across environments. (using Azure CLI)
 
 ---
 
